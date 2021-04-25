@@ -1,1 +1,1 @@
-nuxt-ts-docker
+Nuxt.js + TypeScript + Docker
